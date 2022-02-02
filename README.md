@@ -8,20 +8,23 @@ The PlanMyTrip app development has impressed the stakeholder (Jack).  Beta teste
 ### Customer Travel Destinations Map
 
 Map with Pop-Up Markers
-!alt text[https://github.com/bmliddicoat/World_Weather_Analysis/blob/33335a0e868238b567982ef955994e9d00ef74ed/Vacation_Search/WeatherPy_vacation_map.png]
+
+![alt text](https://github.com/bmliddicoat/World_Weather_Analysis/blob/33335a0e868238b567982ef955994e9d00ef74ed/Vacation_Search/WeatherPy_vacation_map.png)
 
 The map created shows cities meeting the additional weather description.  This new information within the map will help clients decide which area to travel.  The random longitudes and latitudes count has been increased to 2000 to ensure a larger data frame for more choices for the client.  
 
 ### Travel Itinerary
 
 Map Layered with Directions between cities.
-!alt text
-[https://github.com/bmliddicoat/World_Weather_Analysis/blob/33335a0e868238b567982ef955994e9d00ef74ed/Vacation_Itinerary/WeatherPy_travel_map.png]
+
+![alt text](https://github.com/bmliddicoat/World_Weather_Analysis/blob/33335a0e868238b567982ef955994e9d00ef74ed/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 The client decided that Trairi, Touros, Maragogi and Sobradinho were cities which they wanted to travel.  Trairi was assigned as the begining and ending destations.  Touros, Margogi and Sobradinho were the destinations that followed.  The map helps show a driving direction which can be taken for the trip to ensure each city is reached in correct order to increase efficiency within travel.  
 
 Map with Pop-Up marker for each City on Travel
-!alt text [https://github.com/bmliddicoat/World_Weather_Analysis/blob/33335a0e868238b567982ef955994e9d00ef74ed/Vacation_Itinerary/WeatherPy_travel_map_markers.png]
+
+![alt text](https://github.com/bmliddicoat/World_Weather_Analysis/blob/33335a0e868238b567982ef955994e9d00ef74ed/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
 The map will give the client an easier interface to interact with the cities being traveled to for the vacation.  Cities that are not on itinerary have been removed.  The client will now have easier access to information desired for each city/hotel/weather.  
 
 ## Recommendations
